@@ -682,165 +682,6 @@ works</a></h3>
                         </div><!-- /.container -->
                     </section>
 
-                    <!-- FACTS -->
-                    <section class="wprt-section facts parallax">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-4">
-                                </div><!-- /.col-md-4 -->
-                                <div class="col-md-8">
-                                    <div class="wprt-spacer" data-desktop="120" data-mobi="80" data-smobi="60"></div>
-                                    <h2 class="text-right text-center-mobile text-white font-family-extend font-size-25 margin-bottom-0 line-height-normal letter-spacing-1px">The Construction Company</h2>
-                                    <h3 class="text-right text-center-mobile text-white font-family-heading font-size-70 line-height-normal margin-bottom-20 letter-spacing-1px"><strong>AWESOME FACTS</strong></h3>
-                                </div><!-- /.col-md-8 -->
-                                <div class="col-md-6">
-                                </div><!-- /.col-md-6 -->
-                                <div class="col-md-2">
-                                    <div class="wprt-counter text-center white-type has-plus">
-                                        <div class="number" data-speed="5000" data-to="13691" data-in-viewport="yes">13691</div>
-                                        <div class="text">PROJECT COMPLETED</div>
-                                    </div>
-                                </div><!-- /.col-md-2 -->
-                                <div class="col-md-2">
-                                    <div class="wprt-counter text-center white-type has-plus">
-                                        <div class="number" data-speed="5000" data-to="1725" data-in-viewport="yes">1725</div>
-                                        <div class="text">SATISFIED CLIENTS</div>
-                                    </div>
-                                </div><!-- /.col-md-2 -->
-                                <div class="col-md-2">
-                                    <div class="wprt-counter text-center white-type has-plus">
-                                        <div class="number" data-speed="5000" data-to="984" data-in-viewport="yes">984</div>
-                                        <div class="text">WORKERS EMPLOYED</div>
-                                    </div>
-                                </div><!-- /.col-md-2 -->
-                                <div class="col-md-12">
-                                    <div class="wprt-spacer" data-desktop="130" data-mobi="80" data-smobi="60"></div>
-                                </div><!-- /.col-md-12 -->
-                            </div><!-- /.row -->
-                        </div><!-- /.container -->
-                    </section>
-
-                    <!-- TESTIMONIALS -->
-                    <section class="wprt-section testiminials">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="wprt-spacer" data-desktop="70" data-mobi="60" data-smobi="60"></div>
-                                </div><!-- /.col-md-12 -->
-
-                                <div class="col-md-6">
-                                    <h2>OUR PARTNERS</h2>
-                                    <div class="wprt-lines style-1 custom-3">
-                                        <div class="line-1"></div>
-                                        <div class="line-2"></div>
-                                    </div>
-                                    <div class="wprt-spacer" data-desktop="50" data-mobi="40" data-smobi="40"></div>
-
-                                    <div class="wprt-partner-grid has-outline col-3 gutter-10">
-                                        <div class="partner-wrap clearfix">
-                                            <div class="partner-row clearfix">
-                                                <div class="partner-item">
-                                                    <div class="inner-item">
-                                                        <a target="_blank" href="#"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/partners/1.png" alt="image" /></a>
-                                                    </div>
-                                                </div><!-- /.partner-item -->
-
-                                                <div class="partner-item">
-                                                    <div class="inner-item">
-                                                        <a target="_blank" href="#"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/partners/2.png" alt="image" /></a>
-                                                    </div>
-                                                </div><!-- /.partner-item -->
-
-                                                <div class="partner-item">
-                                                    <div class="inner-item">
-                                                        <a target="_blank" href="#"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/partners/3.png" alt="image" /></a>
-                                                    </div>
-                                                </div><!-- /.partner-item -->
-                                            </div>
-
-                                            <div class="partner-row clearfix">
-                                                <div class="partner-item">
-                                                    <div class="inner-item">
-                                                        <a target="_blank" href="#"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/partners/4.png" alt="image" /></a>
-                                                    </div>
-                                                </div><!-- /.partner-item -->
-
-                                                <div class="partner-item">
-                                                    <div class="inner-item">
-                                                        <a target="_blank" href="#"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/partners/5.png" alt="image" /></a>
-                                                    </div>
-                                                </div><!-- /.partner-item -->
-
-                                                <div class="partner-item">
-                                                    <div class="inner-item">
-                                                        <a target="_blank" href="#"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/partners/6.png" alt="image" /></a>
-                                                    </div>
-                                                </div><!-- /.partner-item -->
-                                            </div>
-                                        </div><!-- /.partner-wrap -->
-                                    </div><!-- /.wprt-partner-grid -->
-
-                                    <div class="wprt-spacer" data-desktop="0" data-mobi="40" data-smobi="40"></div>
-                                </div><!-- /.col-md-6 -->
-
-                                <div class="col-md-6">
-                                    <h2>TESTIMONIALS</h2>
-                                    <div class="wprt-lines style-1 custom-3">
-                                        <div class="line-1"></div>
-                                        <div class="line-2"></div>
-                                    </div>
-                                    <div class="wprt-spacer" data-desktop="50" data-mobi="40" data-smobi="40"></div>
-
-                                    <div class="wprt-testimonials has-outline arrow-style-2 has-arrows arrow60 arrow-light" data-layout="slider" data-column="1" data-column2="1" data-column3="1" data-column4="1" data-gaph="0" data-gapv="0">
-                                        <div id="testimonials-wrap" class="cbp">
-                                            <div class="cbp-item">
-                                                <div class="customer clearfix">
-                                                    <div class="inner">
-                                                        <div class="image"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/testimonials/1.jpg" alt="image" /></div>
-                                                        <h4 class="name">DON PAULSON</h4>
-                                                        <div class="position">Architectural Co.</div>
-                                                        <blockquote class="whisper">Your efficient planning, scheduling, management, and supervision resulted in timely completion and a quality facility...Particularly refreshing was the spirit of cooperation demonstrated by your firm which served to minimize costly delays and contract modifications.</blockquote>
-                                                    </div>
-                                                </div>
-                                            </div><!-- /.cbp-item -->
-
-                                            <div class="cbp-item">
-                                                <div class="customer clearfix">
-                                                    <div class="inner">
-                                                        <div class="image"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/testimonials/2.jpg" alt="image" /></div>
-                                                        <h4 class="name">DON PAULSON</h4>
-                                                        <div class="position">Architectural Co.</div>
-                                                        <blockquote class="whisper">Your efficient planning, scheduling, management, and supervision resulted in timely completion and a quality facility...Particularly refreshing was the spirit of cooperation demonstrated by your firm which served to minimize costly delays and contract modifications.</blockquote>
-                                                    </div>
-                                                </div>
-                                            </div><!-- /.cbp-item -->
-
-                                            <div class="cbp-item">
-                                                <div class="customer clearfix">
-                                                    <div class="inner">
-                                                        <div class="image"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/testimonials/3.jpg" alt="image" /></div>
-                                                        <h4 class="name">DON PAULSON</h4>
-                                                        <div class="position">Architectural Co.</div>
-                                                        <blockquote class="whisper">Your efficient planning, scheduling, management, and supervision resulted in timely completion and a quality facility...Particularly refreshing was the spirit of cooperation demonstrated by your firm which served to minimize costly delays and contract modifications.</blockquote>
-                                                    </div>
-                                                </div>
-                                            </div><!-- /.cbp-item -->
-                                        </div><!-- /#service-wrap -->
-                                    </div><!-- /.wprt-service -->
-                                </div><!-- /.col-md-6 -->
-
-                                <div class="col-md-12">
-                                    <div class="wprt-spacer" data-desktop="70" data-mobi="60" data-smobi="60"></div>
-                                </div><!-- /.col-md-12 -->
-                            </div><!-- /.row -->
-                        </div><!-- /.container -->
-                    </section>
-                </div><!-- /.page-content -->
-            </div>
-        </div>
-    </div>
-</div>
-
 <!-- Footer -->
 <footer id="footer">
     <div id="footer-widgets" class="container style-1">
@@ -850,7 +691,8 @@ works</a></h3>
                     <h2 class="widget-title"><span>ABOUT US</span></h2>
                     <div class="textwidget">
                         <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/amarLogo.png" width="200" height="30" alt="image" class="amarbuilders--logo margin-top-5 margin-bottom-25" />
-                        <p>Building isn’t just a job. At the Construction Company, it is our passion. With every project we undertake, we set the bar high and provide the best people in the industry, with a true love of what we do to make our Customers’ vision a reality.</p>
+                        <p>AMAR BUILDERS LIMITED is a construction company deals with Civil works: roads (paved or murram), Drainageand Building works; Bridges (Box culvertsor other related structures) and Metal
+                            fabrications, Wooden furniture fabrications, irrigation and water supply works.</p>
 
                     </div>
                 </div>
@@ -860,18 +702,13 @@ works</a></h3>
                 <div class="widget widget_links">
                     <h2 class="widget-title"><span>COMPANY LINKS</span></h2>
                     <ul class="wprt-links clearfix col2">
-                        <li class="style-2"><a href="#">History</a></li>
-                        <li class="style-2"><a href="#">Services</a></li>
-                        <li class="style-2"><a href="#">Team & Awards</a></li>
-                        <li class="style-2"><a href="#">Delivery Methods</a></li>
-                        <li class="style-2"><a href="#">Community</a></li>
-                        <li class="style-2"><a href="#">Safety</a></li>
-                        <li class="style-2"><a href="#">News & Events</a></li>
-                        <li class="style-2"><a href="#">Sustainability</a></li>
-                        <li class="style-2"><a href="#">FAQ</a></li>
-                        <li class="style-2"><a href="#">Portfolio</a></li>
-                        <li class="style-2"><a href="#">Contact Us</a></li>
-                        <li class="style-2"><a href="#">Shop</a></li>
+                        <li class="style-2"><a href="#">Home</a></li>
+                        <li class="style-2"><a href="#">Project</a></li>
+                        <li class="style-2"><a href="#">Our Service</a></li>
+                        <li class="style-2"><a href="#">About Us</a></li>
+                        <li class="style-2"><a href="#">Gallery</a></li>
+                        <li class="style-2"><a href="#">Contact</a></li>
+                        
                     </ul>
                 </div>
             </div>
@@ -882,31 +719,21 @@ works</a></h3>
                     <ul class="style-2">
                         <li class="address clearfix">
                             <span class="hl">Address:</span>
-                            <span class="text">1379 Shoreline Parkway, Mountain View, CA 94043, United States</span>
+                            <span class="text">Nelson Mandela Road/Temeke Street, DAR-ES-SAALAM</span>
                         </li>
                         <li class="phone clearfix">
                             <span class="hl">Phone:</span> 
-                            <span class="text">+1 718-999-3939</span>
+                            <span class="text">+255-769 780497</span>
                         </li>
                         <li class="email clearfix">
                             <span class="hl">E-mail:</span>
-                            <span class="text">contact@construction.com</span>
+                            <span class="text">vipulnaran@gmail.com</span>
                         </li>
                     </ul>
                 </div>
 
                 <div class="widget widget_spacer">
                     <div class="wprt-spacer clearfix" data-desktop="10" data-mobi="10" data-smobi="10"></div>
-                </div>
-
-                <div class="widget widget_socials">
-                    <div class="socials">
-                        <a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
-                        <a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
-                        <a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>
-                        <a target="_blank" href="#"><i class="fa fa-pinterest"></i></a>
-                        <a target="_blank" href="#"><i class="fa fa-dribbble"></i></a>
-                    </div>
                 </div>
             </div>
         </div>
@@ -919,17 +746,11 @@ works</a></h3>
         <div class="bottom-bar-inner-wrap">
         
             <div class="bottom-bar-content">
-                <div id="copyright">CONSTRUCTION TEMPLATE &copy; DESIGN BY GENERATION GASPER.
+                <div id="copyright" class="copyrigt--center">AMAR BUILDERS LIMITED &copy; DESIGN BY GENERATION GASPER.
                 </div><!-- /#copyright -->
             </div><!-- /.bottom-bar-content -->
 
-            <div class="bottom-bar-menu">
-                <ul class="bottom-nav">
-                    <li><a href="#/">HISTORY</a></li>
-                    <li><a href="#/">FAQ</a></li>
-                    <li><a href="#/">EVENTS</a></li>
-                </ul>       
-            </div><!-- /.bottom-bar-menu -->
+            
         </div>
     </div>
 </div>
