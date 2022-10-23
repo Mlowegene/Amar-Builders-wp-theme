@@ -20,11 +20,8 @@
     <link rel="shortcut icon" href="<?php echo get_bloginfo('template_directory'); ?>/assets/icon/favicon.png">
     <link rel="apple-touch-icon-precomposed" href="<?php echo get_bloginfo('template_directory'); ?>/assets/icon/apple-touch-icon-158-precomposed.png">
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    <!-- Load amarbuilders-home.css -->
+    <link rel="stylesheet" type="text/css" href="<?php echo get_bloginfo('template_directory'); ?>/assets/css/amarbuilders/amarbulders-home.css">
 </head>
 
 <body class="front-page no-sidebar site-layout-full-width header-style-5 menu-has-search menu-has-cart">
@@ -43,7 +40,7 @@
                 <div id="site-logo" class="clearfix">
                     <div id="site-logo-inner">
                         <a href="home-slider-full-screen.html" title="Construction" rel="home" class="main-logo">
-                            <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/amarLogo.png" alt="AmarBuilderLogo" data-retina="assets/img/logo-light@2x.png" data-width="200" data-height="30">
+                            <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/amarLogo.png" alt="AmarBuilderLogo" data-retina="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/amarLogo.png" class="amarbuilders--logo" >
                         </a>
                     </div>
                 </div><!-- /#site-logo -->
@@ -852,7 +849,7 @@ works</a></h3>
                 <div class="widget widget_text">
                     <h2 class="widget-title"><span>ABOUT US</span></h2>
                     <div class="textwidget">
-                        <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/logo-light@2x.png" width="200" height="30" alt="image" class="margin-top-5 margin-bottom-25" />
+                        <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/amarLogo.png" width="200" height="30" alt="image" class="amarbuilders--logo margin-top-5 margin-bottom-25" />
                         <p>Building isn’t just a job. At the Construction Company, it is our passion. With every project we undertake, we set the bar high and provide the best people in the industry, with a true love of what we do to make our Customers’ vision a reality.</p>
 
                     </div>
