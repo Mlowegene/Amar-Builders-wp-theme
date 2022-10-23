@@ -256,7 +256,7 @@
                                             <span class="dd-icon icon-drawing"></span>
                                         </div>
                                         <div class="content-wrap">
-                                            <h3 class="dd-title font-size-18"><a href="#">CIvil Works</a></h3>
+                                            <h3 class="dd-title font-size-18"><a href="#">Civil Works</a></h3>
                                             <p>Vestibulum eu libero volutpat, portas quam, tempus sem. Donec sodales quam id lorem lobortis, vitae interdum nisl.</p>
                                         </div>
                                     </div>
@@ -311,7 +311,7 @@ fabrications</a></h3>
                                             <span class="dd-icon icon-light-bulb"></span>
                                         </div>
                                         <div class="content-wrap">
-                                            <h3 class="dd-title font-size-18"><a href="#">irrigation and water supply
+                                            <h3 class="dd-title font-size-18"><a href="#">Irrigation and water supply
 works</a></h3>
                                             <p>Vestibulum eu libero volutpat, portas quam, tempus sem. Donec sodales quam id lorem lobortis, vitae interdum nisl.</p>
                                         </div>
