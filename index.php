@@ -573,32 +573,32 @@ works</a></h3>
                                             <ul class="slides">
                                                 <li class="flex-active-slide">
                                                     <a class="zoom" href="assets/img/gallery/1.jpg"><i class="fa fa-arrows-alt"></i></a>
-                                                    <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/gallery/1.jpg" alt="image" />
+                                                    <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/18.png" alt="image" />
                                                 </li>
 
                                                 <li class="flex-active-slide">
                                                     <a class="zoom" href="assets/img/gallery/2.jpg"><i class="fa fa-arrows-alt"></i></a>
-                                                    <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/gallery/2.jpg" alt="image" />
+                                                    <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/19.png" alt="image" />
                                                 </li>
 
                                                 <li class="flex-active-slide">
                                                     <a class="zoom" href="assets/img/gallery/3.jpg"><i class="fa fa-arrows-alt"></i></a>
-                                                    <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/gallery/3.jpg" alt="image" />
+                                                    <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/20.png" alt="image" />
                                                 </li>
 
                                                 <li class="flex-active-slide">
                                                     <a class="zoom" href="assets/img/gallery/4.jpg"><i class="fa fa-arrows-alt"></i></a>
-                                                    <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/gallery/4.jpg" alt="image" />
+                                                    <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/21.png" alt="image" />
                                                 </li>
                                             </ul>
                                         </div>
 
                                         <div id="wprt-carousel" class="flexslider">
                                             <ul class="slides">
-                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/gallery/1-s.jpg" alt="image"></li>
-                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/gallery/2-s.jpg" alt="image"></li>
-                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/gallery/3-s.jpg" alt="image"></li>
-                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/gallery/4-s.jpg" alt="image"></li>
+                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/22.png" alt="image"></li>
+                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/23.png" alt="image"></li>
+                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/24.png" alt="image"></li>
+                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/25.png" alt="image"></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -630,9 +630,9 @@ works</a></h3>
                                         <div id="service-wrap" class="cbp">
                                             <div class="cbp-item">
                                                 <div class="service-item clearfix">
-                                                    <div class="thumb"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/services/1.jpg" alt="image" /></div>
+                                                    <div class="thumb"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/7.png" alt="image" /></div>
                                                     <div class="service-item-wrap">
-                                                        <h3 class="title font-size-18"><a href="#">Design & Construction</a></h3>
+                                                        <h3 class="title font-size-18"><a href="#">Metal Fabrications</a></h3>
                                                         <p class="desc">Nulla iaculis turpis in nibh aliquam maximus. In dignissim arcu vel diam scelerisque, pretium urna </p>
                                                         <a href="#" class="wprt-button small rounded-3px">READ MORE</a>
                                                     </div>
@@ -641,9 +641,9 @@ works</a></h3>
 
                                             <div class="cbp-item">
                                                 <div class="service-item clearfix">
-                                                    <div class="thumb"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/services/2.jpg" alt="image" /></div>
+                                                    <div class="thumb"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/5.png" alt="image" /></div>
                                                     <div class="service-item-wrap">
-                                                        <h3 class="title font-size-18"><a href="#">The Green Building</a></h3>
+                                                        <h3 class="title font-size-18"><a href="#">Civil Works</a></h3>
                                                         <p class="desc">Nulla iaculis turpis in nibh aliquam maximus. In dignissim arcu vel diam scelerisque, pretium urna </p>
                                                         <a href="#" class="wprt-button small rounded-3px">READ MORE</a>
                                                     </div>
@@ -652,7 +652,7 @@ works</a></h3>
 
                                             <div class="cbp-item">
                                                 <div class="service-item clearfix">
-                                                    <div class="thumb"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/services/3.jpg" alt="image" /></div>
+                                                    <div class="thumb"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/17.png" alt="image" /></div>
                                                     <div class="service-item-wrap">
                                                         <h3 class="title font-size-18"><a href="#">House Renovation</a></h3>
                                                         <p class="desc">Nulla iaculis turpis in nibh aliquam maximus. In dignissim arcu vel diam scelerisque, pretium urna </p>
@@ -663,9 +663,9 @@ works</a></h3>
 
                                             <div class="cbp-item">
                                                 <div class="service-item clearfix">
-                                                    <div class="thumb"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/services/1.jpg" alt="image" /></div>
+                                                    <div class="thumb"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/22.png" alt="image" /></div>
                                                     <div class="service-item-wrap">
-                                                        <h3 class="title font-size-18"><a href="#">Design & Construction</a></h3>
+                                                        <h3 class="title font-size-18"><a href="#">Drainage and Building Works</a></h3>
                                                         <p class="desc">Nulla iaculis turpis in nibh aliquam maximus. In dignissim arcu vel diam scelerisque, pretium urna </p>
                                                         <a href="#" class="wprt-button small rounded-3px">READ MORE</a>
                                                     </div>
