@@ -572,22 +572,22 @@ works</a></h3>
                                         <div id="wprt-slider" class="flexslider">
                                             <ul class="slides">
                                                 <li class="flex-active-slide">
-                                                    <a class="zoom" href="assets/img/gallery/1.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                                    <a class="zoom" href="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/18.png"><i class="fa fa-arrows-alt"></i></a>
                                                     <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/18.png" alt="image" />
                                                 </li>
 
                                                 <li class="flex-active-slide">
-                                                    <a class="zoom" href="assets/img/gallery/2.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                                    <a class="zoom" href="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/19.png"><i class="fa fa-arrows-alt"></i></a>
                                                     <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/19.png" alt="image" />
                                                 </li>
 
                                                 <li class="flex-active-slide">
-                                                    <a class="zoom" href="assets/img/gallery/3.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                                    <a class="zoom" href="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/20.png"><i class="fa fa-arrows-alt"></i></a>
                                                     <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/20.png" alt="image" />
                                                 </li>
 
                                                 <li class="flex-active-slide">
-                                                    <a class="zoom" href="assets/img/gallery/4.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                                    <a class="zoom" href="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/21.png"><i class="fa fa-arrows-alt"></i></a>
                                                     <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/21.png" alt="image" />
                                                 </li>
                                             </ul>
@@ -595,10 +595,10 @@ works</a></h3>
 
                                         <div id="wprt-carousel" class="flexslider">
                                             <ul class="slides">
-                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/22.png" alt="image"></li>
-                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/23.png" alt="image"></li>
-                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/24.png" alt="image"></li>
-                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/25.png" alt="image"></li>
+                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/18.png" alt="image"></li>
+                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/19.png" alt="image"></li>
+                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/20.png" alt="image"></li>
+                                                <li><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/21.png" alt="image"></li>
                                             </ul>
                                         </div>
                                     </div>
