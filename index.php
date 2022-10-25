@@ -67,7 +67,7 @@
     <div id="rev-slider1" class="rev_slider fullwidthabanner">
         <ul>
             <!-- Slide -->
-            <li data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1500" data-thumb="assets/img/slider/1.jpg" data-rotate="0" data-saveperformance="off" data-title="BEST COMPANY">
+            <li data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1500" data-thumb="assets/img/slider/1.jpg" data-rotate="0" data-saveperformance="off" data-title="BEST CONSTRUCTION COMPANY">
                 <!-- Main Image -->
                 <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/52.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-no-retina>
                 <!-- Layers -->
@@ -133,7 +133,7 @@
             <!-- End Slide -->
 
             <!-- Slide -->
-            <li data-transition="boxfade" data-slotamount="7" data-easein="Expo.easeOut" data-easeout="Expo.easeOut" data-masterspeed="2000" data-thumb="assets/img/slider/2.jpg" data-rotate="0" data-saveperformance="off" data-title="SINCE 1981">
+            <li data-transition="boxfade" data-slotamount="7" data-easein="Expo.easeOut" data-easeout="Expo.easeOut" data-masterspeed="2000" data-thumb="assets/img/slider/2.jpg" data-rotate="0" data-saveperformance="off" data-title="SINCE 2009">
                 <!-- Main Image -->
                 <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/20.png" alt="" data-bgposition="center center" data-no-retina>
                 <!-- Layers -->
@@ -216,6 +216,92 @@
                 </div>
             </li>
             <!-- End Slide -->
+
+            <!-- Slide -->
+            <li data-transition="boxfade" data-slotamount="7" data-easein="Expo.easeOut" data-easeout="Expo.easeOut" data-masterspeed="2000" data-thumb="assets/img/slider/2.jpg" data-rotate="0" data-saveperformance="off" data-title="SINCE 2009">
+                <!-- Main Image -->
+                <img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/16.png" alt="" data-bgposition="center center" data-no-retina>
+                <!-- Layers -->
+                <div class="tp-caption tp-resizeme text-white font-family-heading letter-spacing-1px font-weight-700"
+                    data-x="['left','left','left','left']" data-hoffset="['50','30','30','30']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['-75','-70','-70','-50']"
+                    data-fontsize="['58','58','58','35']"
+                    data-lineheight="['66','65','56','42']"
+                    data-width="none"
+                    data-height="none"
+                    data-whitespace="nowrap"
+                    data-transform_idle="o:1;"
+                    data-transform_in="z:0;rX:0deg;rY:0;rZ:0;sX:1.5;sY:1.5;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;"
+                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+                    data-mask_in="x:0px;y:0px;"
+                    data-mask_out="x:inherit;y:inherit;"
+                    data-start="1500"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-responsive_offset="on">
+                    LETS
+                </div>
+                <div class="tp-caption tp-resizeme text-white font-family-heading letter-spacing-1px font-weight-700"
+                    data-x="['left','left','left','left']" data-hoffset="['50','30','30','30']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+                    data-fontsize="['58','58','58','35']"
+                    data-lineheight="['66','65','56','42']"
+                    data-width="none"
+                    data-height="none"
+                    data-whitespace="nowrap"
+                    data-transform_idle="o:1;"
+                    data-transform_in="z:0;rX:0deg;rY:0;rZ:0;sX:1.5;sY:1.5;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;"
+                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+                    data-mask_in="x:0px;y:0px;"
+                    data-mask_out="x:inherit;y:inherit;"
+                    data-start="1500"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-responsive_offset="on">
+                    WORK <span class="text-accent-color">TOGETHER</span>
+                </div>
+                <div class="tp-caption tp-resizeme text-white font-family-extend letter-spacing-4px"
+                    data-x="['left','left','left','left']" data-hoffset="['55','30','30','30']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['68','100','100','40']"
+                    data-fontsize="['28','26','24','15']"
+                    data-lineheight="['40','40','40','28']"
+                    data-width="none"
+                    data-height="none"
+                    data-whitespace="nowrap"
+                    data-transform_idle="o:1;"
+                    data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                    data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                    data-mask_out="x:0;y:0;s:inherit;e:inherit;"
+                    data-start="1000"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-responsive_offset="on"
+                    data-lasttriggerstate="reset">
+                    Fast and Reliable Service for Your Project
+                </div>
+                <div class="tp-caption"
+                    data-x="['left','left','left','left']" data-hoffset="['55','30','30','30']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['160','150','140','125']"
+                    data-width="none"
+                    data-height="none"
+                    data-whitespace="nowrap"
+                    data-transform_idle="o:1;"
+                    data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;"
+                    data-style_hover="c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);cursor:pointer;"
+                    data-transform_in="y:50px;opacity:0;s:1000;e:Power4.easeInOut;"
+                    data-transform_out="y:[175%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+                    data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1250"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-actions='[{"event":"click","action":"scrollbelow","offset":"20px"}]'
+                    data-responsive="on">
+                    <a href="#" class="wprt-button big rounded-3px">CONTACT US</a>
+                </div>
+            </li>
+            <!-- End Slide -->
+
         </ul>
         <div class="tp-bannertimer tp-bottom"></div>
     </div>
@@ -256,7 +342,7 @@
                                             <span class="dd-icon icon-drawing"></span>
                                         </div>
                                         <div class="content-wrap">
-                                            <h3 class="dd-title font-size-18"><a href="#">Civil Works</a></h3>
+                                            <h3 class="dd-title font-size-18"><a href="#">Building Works</a></h3>
                                             <p>Vestibulum eu libero volutpat, portas quam, tempus sem. Donec sodales quam id lorem lobortis, vitae interdum nisl.</p>
                                         </div>
                                     </div>
@@ -268,8 +354,7 @@
                                             <span class="dd-icon icon-engineer"></span>
                                         </div>
                                         <div class="content-wrap">
-                                            <h3 class="dd-title font-size-18"><a href="#">Drainage
-and Building works</a></h3>
+                                            <h3 class="dd-title font-size-18"><a href="#">Wooden Furniture Fabrications</a></h3>
                                             <p>Vestibulum eu libero volutpat, portas quam, tempus sem. Donec sodales quam id lorem lobortis, vitae interdum nisl.</p>
                                         </div>
                                     </div>
@@ -283,8 +368,7 @@ and Building works</a></h3>
                                             <span class="dd-icon icon-drawing-compass"></span>
                                         </div>
                                         <div class="content-wrap">
-                                            <h3 class="dd-title font-size-18"><a href="#">Metal
-fabrications</a></h3>
+                                            <h3 class="dd-title font-size-18"><a href="#">Metal Fabrication (Industrial and Infrastructures)</a></h3>
                                             <p>Vestibulum eu libero volutpat, portas quam, tempus sem. Donec sodales quam id lorem lobortis, vitae interdum nisl.</p>
                                         </div>
                                     </div>
@@ -296,8 +380,7 @@ fabrications</a></h3>
                                             <span class="dd-icon icon-drill-2"></span>
                                         </div>
                                         <div class="content-wrap">
-                                            <h3 class="dd-title font-size-18"><a href="#">Wooden furniture
-fabrications</a></h3>
+                                            <h3 class="dd-title font-size-18"><a href="#">Aluminium and Glass Works</a></h3>
                                             <p>Vestibulum eu libero volutpat, portas quam, tempus sem. Donec sodales quam id lorem lobortis, vitae interdum nisl.</p>
                                         </div>
                                     </div>
@@ -311,7 +394,7 @@ fabrications</a></h3>
                                             <span class="dd-icon icon-light-bulb"></span>
                                         </div>
                                         <div class="content-wrap">
-                                            <h3 class="dd-title font-size-18"><a href="#">Irrigation and water supply
+                                            <h3 class="dd-title font-size-18"><a href="#">Drainage and Plumbing Services
 works</a></h3>
                                             <p>Vestibulum eu libero volutpat, portas quam, tempus sem. Donec sodales quam id lorem lobortis, vitae interdum nisl.</p>
                                         </div>
@@ -324,7 +407,7 @@ works</a></h3>
                                             <span class="dd-icon icon-pipe-11"></span>
                                         </div>
                                         <div class="content-wrap">
-                                            <h3 class="dd-title font-size-18"><a href="#">Plumbilg Services</a></h3>
+                                            <h3 class="dd-title font-size-18"><a href="#">Civil Works</a></h3>
                                             <p>Vestibulum eu libero volutpat, portas quam, tempus sem. Donec sodales quam id lorem lobortis, vitae interdum nisl.</p>
                                         </div>
                                     </div>
