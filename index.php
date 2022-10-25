@@ -737,7 +737,7 @@ works</a></h3>
                                                 <div class="service-item clearfix">
                                                     <div class="thumb"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/17.png" alt="image" /></div>
                                                     <div class="service-item-wrap">
-                                                        <h3 class="title font-size-18"><a href="#">House Renovation</a></h3>
+                                                        <h3 class="title font-size-18"><a href="#">Building Works</a></h3>
                                                         <p class="desc">Nulla iaculis turpis in nibh aliquam maximus. In dignissim arcu vel diam scelerisque, pretium urna </p>
                                                         <a href="#" class="wprt-button small rounded-3px">READ MORE</a>
                                                     </div>
@@ -748,7 +748,7 @@ works</a></h3>
                                                 <div class="service-item clearfix">
                                                     <div class="thumb"><img src="<?php echo get_bloginfo('template_directory'); ?>/assets/img/amar-images/22.png" alt="image" /></div>
                                                     <div class="service-item-wrap">
-                                                        <h3 class="title font-size-18"><a href="#">Drainage and Building Works</a></h3>
+                                                        <h3 class="title font-size-18"><a href="#">Wooden Furniture Fabrications</a></h3>
                                                         <p class="desc">Nulla iaculis turpis in nibh aliquam maximus. In dignissim arcu vel diam scelerisque, pretium urna </p>
                                                         <a href="#" class="wprt-button small rounded-3px">READ MORE</a>
                                                     </div>
