@@ -351,7 +351,7 @@
 
                                     <div class="wprt-icon-box accent-background rounded icon-effect-2 icon-left">
                                         <div class="icon-wrap">
-                                            <span class="dd-icon icon-engineer"></span>
+                                            <span class="dd-icon icon-drawing-compass"></span>
                                         </div>
                                         <div class="content-wrap">
                                             <h3 class="dd-title font-size-18"><a href="#">Wooden Furniture Fabrications</a></h3>
@@ -365,7 +365,7 @@
                                 <div class="col-md-4">
                                     <div class="wprt-icon-box accent-background rounded icon-effect-2 icon-left">
                                         <div class="icon-wrap">
-                                            <span class="dd-icon icon-drawing-compass"></span>
+                                            <span class="dd-icon icon-light-bulb"></span>
                                         </div>
                                         <div class="content-wrap">
                                             <h3 class="dd-title font-size-18"><a href="#">Metal Fabrication (Industrial and Infrastructures)</a></h3>
@@ -391,7 +391,7 @@
                                 <div class="col-md-4">
                                     <div class="wprt-icon-box accent-background rounded icon-effect-2 icon-left">
                                         <div class="icon-wrap">
-                                            <span class="dd-icon icon-light-bulb"></span>
+                                            <span class="dd-icon icon-pipe-11"></span>
                                         </div>
                                         <div class="content-wrap">
                                             <h3 class="dd-title font-size-18"><a href="#">Drainage and Plumbing Services
@@ -404,7 +404,7 @@ works</a></h3>
 
                                     <div class="wprt-icon-box accent-background rounded icon-effect-2 icon-left">
                                         <div class="icon-wrap">
-                                            <span class="dd-icon icon-pipe-11"></span>
+                                            <span class="dd-icon icon-engineer"></span>
                                         </div>
                                         <div class="content-wrap">
                                             <h3 class="dd-title font-size-18"><a href="#">Civil Works</a></h3>
